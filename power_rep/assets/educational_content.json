@@ -1,0 +1,34 @@
+{
+  "educationalContent": [
+    {
+      "DetailPage": {
+        "title": "Correcto calentamiento",
+        "information": "Antes de iniciar con los ejercicios principales en Streetlifting, es fundamental preparar el cuerpo de manera adecuada. Un buen calentamiento debe incluir movimientos dinámicos y activaciones específicas para las zonas a trabajar. El uso de bandas de resistencia incrementa la temperatura muscular y mejora la movilidad articular, permitiendo realizar ejercicios de activación progresiva como rotaciones de hombros y estiramientos. Además, se recomienda hacer aproximaciones con pesos ligeros o con un porcentaje reducido del peso principal, facilitando la adaptación gradual y reduciendo el riesgo de lesiones.",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0752/5585/files/resistance_bands_12_1024x1024.jpg?v=1685799654",
+          "https://i.shgcdn.com/22b28998-9f06-485b-afac-f2c3959a39e2/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        ]
+      }
+    },
+    {
+      "DetailPage": {
+        "title": "Material recomendado y su uso adecuado",
+        "information": "Para entrenar Streetlifting de forma óptima y segura, es esencial contar con el equipo adecuado. El cinturón de lastre permite añadir peso en ejercicios como dominadas y dips, incrementando la intensidad. El magnesio mejora el agarre y previene deslizamientos durante movimientos de tracción o empuje. Los straps facilitan la ejecución en ejercicios accesorios de espalda, mientras que las bandas de resistencia se utilizan para progresiones y calentamientos. Además, disponer de un soporte para las barras asegura la estabilidad de los pesos en los ejercicios accesorios.",
+        "images": [
+          "https://ericflag.com/cdn/shop/files/corde-lest-2000.jpg",
+          "https://bulldoggear.com/cdn/shop/products/ChalkBarBumperA001-001.png?v=1562669827&width=1000"
+        ]
+      }
+    },
+    {
+      "DetailPage": {
+        "title": "Ejercicios auxiliares para los ejercicios principales",
+        "information": "Los ejercicios auxiliares o complementarios fortalecen músculos secundarios y estabilizadores, mejorando la ejecución de los movimientos principales. Por ejemplo, el remo con barra o mancuernas refuerza la espalda para dominadas, mientras que las flexiones declinadas ofrecen un estímulo diferente al pectoral y tríceps, complementando el trabajo sin replicar el mismo movimiento de los dips. En el caso de las sentadillas, combinar el peso muerto rumano con la sentadilla búlgara potencia la cadena posterior y mejora la estabilidad de la cadera. Estas variaciones diversifican el entrenamiento y ayudan a corregir desequilibrios musculares.",
+        "images": [
+          "https://merrittclubs.com/wp-content/uploads/2023/11/weight-machine-blog-2.jpg",
+          "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2018/05/1109-one-arm-dumbbell-row-back.jpg?quality=86&strip=all"
+        ]
+      }
+    }
+  ]
+}
